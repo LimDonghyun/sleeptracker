@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# macOS system files
+.DS_Store
+
+# User config and cache
+.sleeptracker/
+*.json
+
+# Logs and runtime data
+logs/
+data/
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Homebrew tarball
+*.tar.gz
